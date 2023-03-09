@@ -1,7 +1,6 @@
-# nodejs_finalproject_sanbercode42
+# nodejs_finalproject
 
 - Author : Muhamad Alfarisy
-- Email  : muhamadalfarisy9d@yahoo.com
 
 ## Deskripsi
 - User dapat melakukan pemesanan peminjaman (create), lalu update, read dan delete peminjaman tersebut.
